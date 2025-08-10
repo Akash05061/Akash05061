@@ -37,7 +37,7 @@ Hello! I'm **Akash B S**, a passionate and detail-oriented **DevOps Engineer** d
 ### 📊 Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)  
-![Alertmanager](https://img.shields.io/badge/Alertmanager-FFCC00?style=for-the-badge)  
+ 
 
 ### 🐧 System & Scripting  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  

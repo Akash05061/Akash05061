@@ -1,4 +1,5 @@
-# 👨‍💻 Akash B S | DevOps Engineer
+# 👨‍💻 Akash B S | Aspiring DevOps Engineer
+
 
 Hello! I'm **Akash B S**, a passionate and detail-oriented **DevOps Engineer** dedicated to automating infrastructure, improving deployment workflows, and building scalable, secure systems.
 

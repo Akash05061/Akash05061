@@ -71,7 +71,7 @@ Hello! I'm **Akash B S**, a passionate and detail-oriented **DevOps Engineer** d
 ## 📫 Contact
 
 📧 **Email:** [asuttakoti@gmail.com](mailto:asuttakoti@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/akash-bs-devops](https://linkedin.com/in/akash-bs-devops)  
+🔗 **LinkedIn:** [linkedin.com/in/akash-bs-devops](https://linkedin.com/in/akash-b-s-15848923a)  
 💻 **GitHub:** [github.com/Akash05061](https://github.com/Akash05061)  
 
 ---
